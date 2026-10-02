@@ -24,8 +24,8 @@
     "@actions/github": "^6.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.24",
-    "esbuild": "^0.20.2",
-    "typescript": "^5.3.3"
+    "@types/node": "^26.6.3",
+    "esbuild": "^0.28.2",
+    "typescript": "^7.0.2"
   }
 }
